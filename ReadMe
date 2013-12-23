@@ -1,0 +1,34 @@
+//////////////////////////////////////////////////////
+//													//
+//         DOS Project 3 - Pastry					//
+//													//
+//////////////////////////////////////////////////////
+
+1. Team Members:
+
+Yang OU (UFID: 2012-6327 / you@cise.ufl.edu)
+Xiang XU (UFID: 1695-3764 / xuxu@cise.ufl.edu)
+
+2. Code Submitted:
+
+project3.scala
+project3bonus.scala
+
+3. How To Run
+
+(After compilation)
+project3 numNodes numRequests
+project3bonus numNodes numRequests numFailures
+
+4. What is working
+
+Both basic program and bonus program are working including join and route mechanisms.
+
+5. What is the largest network we can manage
+
+For the basic program(project3.scala), up to 180,000 nodes can be supported.
+For the bonus program(project3bonus.scala), please see report.pdf.
+
+Larger network may be supported, but may take a longer time.
+
+6. Thanks and Have A Good Day.
